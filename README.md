@@ -6,7 +6,6 @@
 <p>
  💻 I am a computer science student at the Federal University of Campina Grande – UFCG;<br>
  🤓 I'm currently learning CSS3 and JavaScript;<br>
- 📪 How to contact me: <a href="mailto:erikdinizbeserra@gmail.com" target="_blank">erikdinizbeserra@gmail.com</a>
 </p>
 
  &nbsp;
