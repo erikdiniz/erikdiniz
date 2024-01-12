@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Olá, meu nome é Erik. Sou um desenvolvedor de software entusiasta do <strong>Desenvolvimento Web</strong> e empenhado em me tornar um desenvolvedor <strong>Full Stack</strong>. Sou graduando em Ciência da Computação pela Universidade Federal de Campina Grande - UFCG.
+  Olá, meu nome é Erik. Sou desenvolvedor de software, entusiasta do <strong>Desenvolvimento Web</strong> e empenhado em me tornar um desenvolvedor <strong>Full Stack</strong>. Sou graduando em Ciência da Computação pela Universidade Federal de Campina Grande - UFCG.
 </p>
 
 <p align="left">
