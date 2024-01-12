@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, HTML5, CSS3</strong>
+  👨‍💻 Linguagens: <strong>Java, HTML5, CSS3</strong>
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Vamos trocar figurinhas? ⤵️
+  📬 Vamos trocar figurinhas? ⤵️
 </p>
 
 <p align="left">
