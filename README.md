@@ -1,59 +1,30 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=head" />
-
-# Hi, I'm Erik Diniz! 👋🏻
-
-<p>
- 💻 I am a computer science student at the Federal University of Campina Grande – UFCG;<br>
- 🤓 I'm currently learning CSS3 and JavaScript;<br>
+<p align="left">
+  Olá, meu nome é Erik. Sou um desenvolvedor de software entusiasta do <strong>desenvolvimento web</strong> e empenhado em me tornar um desenvolvedor <strong>Full Stack</strong>. Sou graduando em Ciência da Computação pela Universidade Federal de Campina Grande - UFCG.
 </p>
 
- &nbsp;
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-erik-dinizs-projects.vercel.app/api/top-langs/?username=erikdiniz&show_icons=true&theme=jolly&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
 
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-
-## My Skills
-
-#### Languages:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Studying in this moment:
-
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![IntellijIdea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/erik_diniz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:erikdinizbeserra@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://br.linkedin.com/in/erikdiniz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-</div>&nbsp;&nbsp;
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
