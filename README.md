@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Eclipse, Intellij Idea</strong>
+  💼 Ferramentas: <strong>VS Code</strong>
 </p>
 
 <p align="left">
