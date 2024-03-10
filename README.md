@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  👨‍💻 Linguagens: <strong>Java | JavaScript</strong>
+  👨‍💻 Linguagens: <strong>Java</strong>
 </p>
 
 <p align="left">
