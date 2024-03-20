@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code</strong>
+  💼 Ferramentas: <strong>React</strong>
 </p>
 
 <p align="left">
