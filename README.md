@@ -1,7 +1,7 @@
 ## Oi, eu sou Erik Diniz 👋
 
 <p align="center">
-  <a href="https://mailto:erikdinizbeserra@gmail.com">
+  <a href="mailto:erikdinizbeserra@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
   
   <a href="https://www.linkedin.com/in/erikdiniz">
