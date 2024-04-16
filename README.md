@@ -1,15 +1,9 @@
+# Oi 👋
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
   Olá, meu nome é Erik. Sou desenvolvedor de software, entusiasta do <strong>Desenvolvimento Web</strong> e empenhado em me tornar um desenvolvedor <strong>Full Stack</strong>. Sou graduando em Ciência da Computação pela Universidade Federal de Campina Grande - UFCG.
-</p>
-
-<p align="left">
-  👨‍💻 Linguagens: <strong>Java | JavaScript</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>React</strong>
 </p>
 
 <p align="left">
@@ -24,3 +18,8 @@
   <a href="https://www.instagram.com/erik_diniz_" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+
+<span>
+  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=erikdiniz&show_icons=true&hide=issues&theme=transparent" />
+  <img alt="my languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikdiniz&theme=transparent&layout=compact" />
+</span>
