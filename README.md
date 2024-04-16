@@ -21,5 +21,5 @@
 
 <span>
   <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=erikdiniz&show_icons=true&hide=issues&theme=transparent" />
-  <img alt="my languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikdiniz&theme=transparent&layout=compact" />
+  <img align="right" alt="my languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikdiniz&theme=transparent&layout=compact" />
 </span>
