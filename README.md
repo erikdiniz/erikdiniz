@@ -6,12 +6,12 @@
   Olá, meu nome é Erik. Sou desenvolvedor de software, entusiasta do <strong>Desenvolvimento Web</strong> e empenhado em me tornar um desenvolvedor <strong>Full Stack</strong>. Sou graduando em Ciência da Computação pela Universidade Federal de Campina Grande - UFCG.
 </p>
 
+<br/>
+<br/>
+
 <p align="left">
   📬 Vamos trocar figurinhas? ⤵️
 </p>
-
-<br/>
-<br/>
 
 <p align="left">
   <a href="mailto:erikdinizbeserra@gmail.com" title="Gmail">
