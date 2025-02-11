@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/erikdiniz">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-  <a hreff="https://www.instagram.com/erik_diniz_">
+  <a href="https://www.instagram.com/erik_diniz_">
   <img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
