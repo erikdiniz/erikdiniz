@@ -1,17 +1,29 @@
-## Oi, eu sou Erik Diniz 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="center">
-  <a href="mailto:erikdinizbeserra@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-  
-  <a href="https://www.linkedin.com/in/erikdiniz">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-  <a href="https://www.instagram.com/erik_diniz_">
-  <img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<p align="left"> 
+  Oi, me chamo Erik.<br>
+  Sou graduando de ciências da computação e sigo buscando conhecimento na ára. Atualmente volto minha atenção para o desenvolvimento de software, principalmente na linguagem <strong>Java</strong>
 </p>
 
-<span>
-  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=erikdiniz&show_icons=true&hide=issues&theme=transparent" />
-  <img alt="my languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikdiniz&theme=transparent&layout=compact" />
-</span>
+<p align="left">
+  💻 Linguagens: <strong>Java | Python | SQL</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>SpringBoot | Git</strong>
+</p>
+
+<p align="left">
+  ✉️ Vamos bater um papo? ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=erikdinizbeserra@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikdiniz" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5583986442735" alt="WhatsApp"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/erik_diniz_" alt="Instagram"/></a>
+</p>
