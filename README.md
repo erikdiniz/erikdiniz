@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Oi, me chamo Erik.<br>
-  Sou graduando de ciências da computação e sigo buscando conhecimento na ára. Atualmente volto minha atenção para o desenvolvimento de software, principalmente na linguagem <strong>Java</strong>
+  Oi, me chamo Erik 👋<br>
+  Sou graduando de ciências da computação e sigo buscando conhecimento na área.<br>
+  Atualmente volto minha atenção para o desenvolvimento de software, principalmente na linguagem <strong>Java</strong>.
 </p>
 
 <p align="left">
@@ -10,11 +11,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>SpringBoot | Git</strong>
+  💼 Ferramentas: <strong>Spring Boot | Git</strong>
 </p>
 
 <p align="left">
-  ✉️ Vamos bater um papo? ⤵️
+  ✉️ Fique à vontade para entrar em contato ⤵️
 </p>
 
 <p align="left">
