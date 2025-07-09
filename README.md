@@ -1,30 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# 👨‍💻 Sobre mim:
+🎓 Graduando em Ciências da Computação  
+📚 Sempre buscando conhecimento na área  
+💻 Atualmente focado em desenvolvimento de software  
+☕ Foco em backend com Java
 
-<p align="left"> 
-  Oi, me chamo Erik 👋<br>
-  Sou graduando de ciências da computação e sigo buscando conhecimento na área.<br>
-  Atualmente volto minha atenção para o desenvolvimento de software, principalmente na linguagem <strong>Java</strong>.
-</p>
+## 🌐 Fale comigo:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erik_diniz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erikdiniz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erikdinizbeserra@gmail.com) 
 
-<p align="left">
-  💻 Linguagens: <strong>Java | Python | SQL</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Spring Boot | Git</strong>
-</p>
-
-<p align="left">
-  ✉️ Fique à vontade para entrar em contato ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=erikdinizbeserra@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikdiniz" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5583986442735" alt="WhatsApp"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/erik_diniz_" alt="Instagram"/></a>
-</p>
+# 💻 Minha stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
